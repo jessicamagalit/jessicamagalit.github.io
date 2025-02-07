@@ -1,11 +1,5 @@
 ---
-title: "jessicamagalit.github.io"
+title: "Jessie Magalit"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Hi everyone, My name is Jessie Magalit and I am from Chicago, IL. I am currently double majoring in Ecosystem Science & Sustainability and Apparel Design & Production. Some of my favorite past times include thrifting, sewing, up-cycling, cooking/baking, and going to art museums. I look forward displaying my academic accomplishments on this website that created myself using code!
