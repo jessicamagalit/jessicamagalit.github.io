@@ -11,8 +11,7 @@ about:
       href: https://www.linkedin.com/in/jessica-magalit4/r.com
     - text: Github
       href: https://github.com/jessicamagalit
-    - text: Email
-      href: mailto: jmagalit@colostate.edu
+
 ---
 
 Hi everyone, my name is Jessie Magalit and I am from Chicago, IL. I am currently double majoring in Ecosystem Science & Sustainability and Apparel Design & Production. Some of my favorite past times include thrifting, sewing, up-cycling, cooking/baking, and going to art museums. I look forward to displaying my academic accomplishments on this website that I created myself using code!
