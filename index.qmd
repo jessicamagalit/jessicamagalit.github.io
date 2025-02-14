@@ -1,0 +1,15 @@
+---
+title: "Jessie Magalit"
+---
+image: media/kitties.heic
+toc: false
+about:
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/jessica-magalit4
+    - text: Github
+      href: https://github.com/jessicamagalit
+---
