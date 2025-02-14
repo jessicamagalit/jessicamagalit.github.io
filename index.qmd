@@ -11,4 +11,17 @@ about:
       href: https://www.linkedin.com/in/jessica-magalit4/r.com
     - text: Github
       href: https://github.com/jessicamagalit
+      
+footer:
+  content: |
+    <div class="footer-left">
+      <p>© 2025 Jessica Magalit</p>
+    </div>
+    <div class="footer-right">
+      <a href="https://www.linkedin.com/in/jessica-magalit4/r.com">LinkedIn</a> |
+      <a href="https://github.com/jessicamagalit">GitHub</a> |
+      <a href="mailto:jmagalit@colostate.edu">Email</a> |
+      <a href="https://www.instagram.com/jm4gs">Instagram</a>
+    </div>
+  position: bottom
 ---
