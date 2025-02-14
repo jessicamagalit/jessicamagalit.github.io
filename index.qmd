@@ -1,0 +1,45 @@
+---
+title: "Jessie Magalit"
+image: media/kitties.heic
+toc: false
+about:
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/jessica-magalit4/r.com
+    - text: Github
+      href: https://github.com/jessicamagalit
+---
+<!-- Footer Section -->
+<footer>
+  <div class="footer-left">
+    Left content (e.g., copyright or site info)
+  </div>
+  <div class="footer-right">
+    Right content (e.g., contact info or social media links)
+  </div>
+</footer>
+
+<style>
+  footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border-top: 1px solid #ddd;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  .footer-left {
+    text-align: left;
+    color: #333;
+  }
+  .footer-right {
+    text-align: right;
+    color: #333;
+  }
+</style>
+---
