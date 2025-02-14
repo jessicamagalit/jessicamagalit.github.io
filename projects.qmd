@@ -1,7 +1,3 @@
-project:
-  type: website
-  output-dir: docs
-  
 website:
   title: "projects"
 ---
@@ -14,12 +10,4 @@ In the Spring of 2025 I took a class Quantative Reasoning class based in R. I wr
 - Through this assignment we utilized a github repo to access all the code.
 - I am so proud of how much I have learned so far, and I am excited to see how to advance through the semester.
 
----
-navbar:
-  - text: Home
-    href: index.html
-  - text: Projects
-    href: projects.qmd
-  - text: Resume
-    href: resume.qmd
 ---

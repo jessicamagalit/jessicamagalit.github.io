@@ -7,13 +7,6 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "jessicamagalit.github.io",
-    "section": "",
-    "text": "project: type: website output-dir: docs\nwebsite: title: “projects”\n\nIn the Spring of 2025 I took a class Quantative Reasoning class based in R. I wrote some code, and did some cool data science. Here is a collection of links!\n\n\nIn our lab 1 assignment we created a website with github pages.\nThrough this assignment we utilized a github repo to access all the code.\nI am so proud of how much I have learned so far, and I am excited to see how to advance through the semester."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "jessicamagalit.github.io",
@@ -33,5 +26,12 @@
     "title": "jessicamagalit.github.io",
     "section": "Experience",
     "text": "Experience\nComputer Lab Operator | Senior Lab Op | January 2023 - present\n\nnavbar: - text: Home href: index.html - text: Projects href: projects.qmd - text: Resume href: resume.qmd"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "jessicamagalit.github.io",
+    "section": "",
+    "text": "project: type: website output-dir: docs\nwebsite: title: “projects”\n\nIn the Spring of 2025 I took a class Quantative Reasoning class based in R. I wrote some code, and did some cool data science. Here is a collection of links!\n\n\nIn our lab 1 assignment we created a website with github pages.\nThrough this assignment we utilized a github repo to access all the code.\nI am so proud of how much I have learned so far, and I am excited to see how to advance through the semester."
   }
 ]
