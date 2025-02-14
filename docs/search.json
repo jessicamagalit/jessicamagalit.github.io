@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "jessicamagalit.github.io",
+    "section": "",
+    "text": "project: type: website output-dir: docs\nwebsite: title: “projects”\n\nIn the Spring of 2025 I took a class Quantative Reasoning class based in R. I wrote some code, and did some cool data science. Here is a collection of links!\n\n\nIn our lab 1 assignment we created a website with github pages.\nThrough this assignment we utilized a github repo to access all the code.\nI am so proud of how much I have learned so far, and I am excited to see how to advance through the semester."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "jessicamagalit.github.io",
+    "section": "",
+    "text": "title: “Jessie Magalit” image: media/kitties.heic toc: false about: template: jolla image-shape: round image-width: 17em links: - text: LinkedIn href: https://www.linkedin.com/in/jessica-magalit4/r.com - text: Github href: https://github.com/jessicamagalit\nHi everyone, my name is Jessie Magalit and I am from Chicago, IL. I am currently double majoring in Ecosystem Science & Sustainability and Apparel Design & Production. Some of my favorite past times include thrifting, sewing, up-cycling, cooking/baking, and going to art museums. I look forward to displaying my academic accomplishments on this website that I created myself using code!"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "jessicamagalit.github.io",
+    "section": "Education",
+    "text": "Education\nColorado State University, Fort Collins | Fort Collins, CO Bachelors in Ecosystem Science & Sustainability | Aug 2022 - May 2026"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "jessicamagalit.github.io",
+    "section": "Experience",
+    "text": "Experience\nComputer Lab Operator | Senior Lab Op | January 2023 - present\n\nnavbar: - text: Home href: index.html - text: Projects href: projects.qmd - text: Resume href: resume.qmd"
+  }
+]
