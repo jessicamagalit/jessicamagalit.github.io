@@ -2,7 +2,7 @@
 title: "Resume"
 ---
 
-## \# Jessica A. Magalit
+# Jessica A. Magalit
 
 ## Education
 
@@ -11,7 +11,9 @@ title: "Resume"
 -Bachelor of Science in Ecosystem Science and Sustainability\
 2nd Concentration Sustainability Colorado State University, Fort Collins, Colorado
 
--Transferred Completed May 2022 DePaul University, Chicago, Illinois ---
+-Transferred Completed May 2022 DePaul University, Chicago, Illinois
+
+---
 
 ## Skills and Coursework
 
@@ -27,9 +29,7 @@ Coursework
 
 -   Sustainability: Biology I and II, Calculus for Biological Scientists, Ecology, Physics, Physical Geography, Science of Global Climate Change, Systems Theory for Sustainability
 
--   
-
-    ## Business: Accounting I and II, Business Analytics, Business Statistics, Consumer Behavior, Effective Business Communication, Finance, Management, Marketing, Macroeconomics, Microeconomics.
+-   Business: Accounting I and II, Business Analytics, Business Statistics, Consumer Behavior, Effective Business Communication, Finance, Management, Marketing, Macroeconomics, Microeconomics.
 
 ## Work Experience
 
@@ -43,7 +43,7 @@ Target \| South Elgin, IL \| October 2020 - January 2021 \| Fulfillment Expert T
 
 Zumiez Inc. \| West Dundee, IL \| November 2018 - August 2019 \| Sales Associate/Cashier
 
-## -Utilized suggestive selling techniques, product knowledge, and business communication to not only create a welcoming and helpful environment for the customers but also enhance the store’s sales
+-Utilized suggestive selling techniques, product knowledge, and business communication to not only create a welcoming and helpful environment for the customers but also enhance the store’s sales
 
 ## Industry Experience
 
@@ -57,6 +57,4 @@ True Urban Culture Magazine \| Remote \| October 2021 - January 2022 Fashion & L
 
 -   Committed 15+ hours per week towards curating and writing and produced 2-3 articles per week
 
--   
-
-    ## Broadened the company’s outreach by sharing a fresh perspective as a member of gen-z and Chicago
+-   Broadened the company’s outreach by sharing a fresh perspective as a member of gen-z and Chicago
