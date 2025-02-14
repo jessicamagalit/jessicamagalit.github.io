@@ -6,9 +6,12 @@ website:
   title: "jessicamagalit.github.io"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: Home
+        href: index.html
+      - text: Projects
+        href: projects.qmd
+      - text: Resume
+        href: resume.qmd
 
 format:
   html:
