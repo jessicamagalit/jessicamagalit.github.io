@@ -1,0 +1,11 @@
+---
+title: "projects"
+---
+In the Spring of 2025 I took a class Quantitative Reasoning class based in R. I wrote some code, and did some cool data science. Here is a collection of links!
+---
+- In our lab 1 assignment we created a website with github pages. 
+
+- Through this assignment we utilized a github repo to access all the code.
+
+- I am so proud of how much I have learned so far, and I am excited to see how to advance through the semester.
+---
