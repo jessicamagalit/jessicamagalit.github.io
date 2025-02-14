@@ -14,11 +14,6 @@ website:
         href: projects.qmd
       - text: Resume
         href: resume.qmd
-
-format:
-  html:
-    theme: cosmo
-    css: styles.css
-    toc: true
-
-editor: visual
+page-footer:
+  left: 
+  right:
